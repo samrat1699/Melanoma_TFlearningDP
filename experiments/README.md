@@ -1,0 +1,1 @@
+Each experiment folder should contain a config.yaml and results.json
